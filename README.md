@@ -115,12 +115,6 @@ Admins can:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*You can add Telegram UI screenshots here for better visualization.*
-
----
-
 ## 🧠 Credits
 
 * Built using [Telethon](https://github.com/LonamiWebs/Telethon)
