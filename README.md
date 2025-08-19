@@ -67,7 +67,7 @@ cd SaveBot
 
 ```
 📁 SaveBot/
-├── bot.py                  # Main bot code
+├── bot.py                   # Main bot code
 ├── utils.py                 # CryptoManager (for encryption/decryption)
 ├── helpers.py               # Date helper
 ├── config.json              # Your bot credentials
