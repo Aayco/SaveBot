@@ -67,7 +67,7 @@ cd SaveBot
 
 ```
 📁 SaveBot/
-├── main.py                  # Main bot code
+├── bot.py                  # Main bot code
 ├── utils.py                 # CryptoManager (for encryption/decryption)
 ├── helpers.py               # Date helper
 ├── config.json              # Your bot credentials
@@ -81,7 +81,7 @@ cd SaveBot
 To run the bot:
 
 ```bash
-python main.py
+python bot.py
 ```
 
 The bot will initialize the SQLite database (`database.db`), create required tables, and start listening for messages.
