@@ -1,6 +1,5 @@
 ---
 
-````markdown
 # 🤖 Telegram Media Downloader Bot
 
 A powerful and user-friendly Telegram bot that allows users to **log in with their own accounts** and **download media from message links** — all via a secure interface and admin dashboard.
@@ -126,12 +125,6 @@ Admins can:
 
 * Built using [Telethon](https://github.com/LonamiWebs/Telethon)
 * Encryption via [cryptography](https://cryptography.io/)
-
----
-
-## 📝 License
-
-MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
