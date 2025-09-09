@@ -1,6 +1,6 @@
 {
   "bot_token": "bot_token",
-  "comment": "Get them from https://my.telegram.org/apps"
+  "comment": "Get them from https://my.telegram.org/apps",
   "api_id": api_id,
   "api_hash": "api_hash",
   "admins": [5541407305, 7742838492],
